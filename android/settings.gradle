@@ -1,0 +1,3 @@
+rootProject.name = 'appSms3'
+
+include ':app'
